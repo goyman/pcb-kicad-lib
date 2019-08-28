@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FDMC8327L
+D MOSFET, N-CH, 40V, 8MLP; Transistor Polarity: N Channel; Continuous Drain Current
+K N-Channel MOSFET
+$ENDCMP
+#
 #End Doc Library
