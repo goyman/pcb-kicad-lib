@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP COLIBRI-IMX7-SPLIT
+F Toradex
+$ENDCMP
+#
 $CMP FDMC8327L
 D MOSFET, N-CH, 40V, 8MLP; Transistor Polarity: N Channel; Continuous Drain Current
 K N-Channel MOSFET
