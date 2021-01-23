@@ -1,0 +1,12 @@
+(footprint "Level_Sensor_Tile_Ref" (version 20210108) (generator pcbnew) (layer "F.Cu")
+  (tedit 600C9577)
+  (fp_text reference "REF**" (at 3 -2 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 55f4c45d-5cb5-43ae-ac3f-4aa97222e1fa)
+  )
+  (fp_text value "Level_Sensor_Tile_Ref" (at 3 -4 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 09753bc8-bfb6-4b70-8bb2-3edc30cc230c)
+  )
+  (pad "1" smd rect (at 0 0) (size 14 2) (layers "F.Cu") (tstamp af0fd522-ee2c-4679-af0e-edf024ef68a4))
+)
