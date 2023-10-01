@@ -1,4 +1,5 @@
-(footprint "Molex_FPC_RightAngled_1mm_5_200528-0050" (version 20210108) (generator pcbnew) (layer "F.Cu")
+(footprint "Molex_FPC_RightAngled_1mm_5_200528-0050" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 60342B8E)
   (fp_text reference "REF**" (at 1.5 -2 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -46,7 +47,7 @@
   (pad "5" smd roundrect (at 4 0) (size 0.4 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 5cf89e13-28df-4bc4-adac-69b4a54ee135))
   (pad "MP" smd roundrect (at -2.8 2.7) (size 2 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 56f08d66-6818-489a-b82b-e8f3fc7bf2b5))
   (pad "MP" smd roundrect (at 6.8 2.7) (size 2 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp af0327cb-9a67-4ea4-a1c6-364ba088ad55))
-  (model ":goyman:2005280050.stp"
+  (model ":goyman:2005280050.step"
     (offset (xyz 2 0.15 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))

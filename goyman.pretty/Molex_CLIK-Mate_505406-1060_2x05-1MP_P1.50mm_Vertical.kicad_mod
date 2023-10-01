@@ -33,7 +33,7 @@
   (pad 2 smd roundrect (at 3 -4.7) (size 0.8 2.45) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad MP smd roundrect (at 5.53 -1.1) (size 1.8 5.05) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad MP smd roundrect (at -5.53 -1.1) (size 1.8 5.05) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model :goyman:Molex_CLIK_2x05x1.50mm_Vertical.step
+  (model :GOYMAN:Molex_CLIK_2x05x1.50mm_Vertical.step
     (offset (xyz 0 0 4.4))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

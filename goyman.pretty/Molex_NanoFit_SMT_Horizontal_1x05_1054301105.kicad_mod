@@ -27,7 +27,7 @@
   (pad "3" smd roundrect (at -5 0) (size 1.24 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp e5e882a2-4f8f-4963-a612-9047d634e89b))
   (pad "4" smd roundrect (at -7.5 0) (size 1.24 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 9d24dac6-8cad-433e-9f5d-161e508d7457))
   (pad "5" smd roundrect (at -10 0) (size 1.24 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 853e224b-32fb-41ca-94cf-af698a33398d))
-  (model ":goyman:1054301105.stp"
+  (model ":goyman:1054301105.step"
     (offset (xyz -5.25 -4.5 2))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

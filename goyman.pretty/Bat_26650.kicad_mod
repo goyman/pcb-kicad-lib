@@ -21,12 +21,12 @@
   (pad 1 thru_hole circle (at 3.81 -34) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 3.81 34) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -3.81 34) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
-  (model :goyman:keystone-PN109-3.step
+  (model :GOYMAN:keystone-PN109-3.step
     (offset (xyz 0 34 -2))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model :goyman:keystone-PN109-3.step
+  (model :GOYMAN:keystone-PN109-3.step
     (offset (xyz 0 -34 -2))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

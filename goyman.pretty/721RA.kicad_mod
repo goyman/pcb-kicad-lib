@@ -20,7 +20,7 @@
   (pad 1 thru_hole circle (at -3.302 0) (size 3.81 3.81) (drill 1.778) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 3.302 0) (size 3.81 3.81) (drill 1.778) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 5.588) (size 3.81 3.81) (drill 1.778) (layers *.Cu *.Mask))
-  (model :goyman:Conn_L721RA.step
+  (model :GOYMAN:Conn_L721RA.step
     (offset (xyz 0 -14.0208 7.4328))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 180))

@@ -24,7 +24,7 @@
   (pad 2 thru_hole roundrect (at 6.3 -5.2) (size 4 2) (drill oval 2 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 3 thru_hole roundrect (at 6.3 -0.1) (size 4 2) (drill oval 2 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 1 thru_hole roundrect (at 6.3 3.4) (size 4 2) (drill oval 2 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (model :goyman:54-00127.step
+  (model :GOYMAN:54-00127.step
     (offset (xyz -14 0 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

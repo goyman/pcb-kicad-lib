@@ -1,4 +1,5 @@
-(footprint "Molex_FPC_1mm_10_52610-1072" (version 20210108) (generator pcbnew) (layer "F.Cu")
+(footprint "Molex_FPC_1mm_10_52610-1072" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 60341EEA)
   (fp_text reference "REF**" (at 0 -3.2 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -46,7 +47,7 @@
   (pad "9" smd roundrect (at 8 0) (size 0.6 1.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp cdf7ad2c-8b4f-4686-aa6b-62b400517a10))
   (pad "10" smd roundrect (at 9 3.8) (size 0.6 1.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp b8c6dfd4-9c9c-4672-98d8-e31638a129af))
   (pad "10" smd roundrect (at 9 0) (size 0.6 1.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp e89b8064-8496-461a-a4a2-cfb6ca2f7020))
-  (model ":goyman:526101072.stp"
+  (model ":goyman:526101072.step"
     (offset (xyz 4.5 -1.9 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -1,4 +1,5 @@
-(footprint "Molex_MicroLockPlus_SMT_RightAngled_1.25mm_2x4_505448-0891" (version 20210228) (generator pcbnew) (layer "F.Cu")
+(footprint "Molex_MicroLockPlus_SMT_RightAngled_1.25mm_2x4_505448-0891" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 60AE45F2)
   (fp_text reference "REF**" (at 0 -5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -33,7 +34,7 @@
   (pad "8" smd roundrect (at -3.75 7.4) (size 0.8 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 2dc22458-2b9a-4355-825c-02fbe8f682da))
   (pad "MP" smd roundrect (at 2.2 5.275) (size 1 4.85) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp f40bf5a8-0630-4f4a-805d-9a1ad31001a9))
   (pad "MP" smd roundrect (at -5.95 5.275) (size 1 4.85) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp f591fb25-2a02-45eb-8cb6-d2581275f0f8))
-  (model ":goyman:5054480891.stp"
+  (model ":goyman:5054480891.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
